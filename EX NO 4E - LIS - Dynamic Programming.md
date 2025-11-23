@@ -31,8 +31,8 @@ Explanation: The longest increasing subsequence is [2,3,7,101], therefore the le
 Developed by: YUVARAJ B
 Register Number:  212222040186  
 */
-import java.util.*;
 
+import java.util.*;
 public class LongestIncreasingSubsequence {
 
     public static int lengthOfLIS(int[] nums) {
